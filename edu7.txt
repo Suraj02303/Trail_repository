@@ -1,2 +1,4 @@
 this files is created to check the command $git commit amend.
-here is the info added to the file.
+let us add some more lines to this.
+so that we can check the $git revert HEAD command.
+
