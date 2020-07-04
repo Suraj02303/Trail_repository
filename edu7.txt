@@ -1,4 +1,7 @@
 this files is created to check the command $git commit amend.
+<<<<<<< HEAD
 let us add some more lines to this.
 so that we can check the $git revert HEAD command.
 
+=======
+>>>>>>> parent of 3717f56... Add the modified file edu7.txt
