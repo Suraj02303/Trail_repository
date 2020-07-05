@@ -1,5 +1,5 @@
 this files is created to check the command $git commit amend.
-lets add some more info to the file. Name :SURaj Gupta
+lets add some more info to the file. Name : ADMIN SURaj Gupta
 
 <<<<<<< HEAD
 let us add some more lines to this.
